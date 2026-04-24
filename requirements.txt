@@ -1,0 +1,17 @@
+streamlit>=1.28
+pandas>=2.0
+numpy>=1.24
+scikit-learn>=1.3
+xgboost>=1.7
+lightgbm>=4.0
+catboost>=1.2
+tensorflow>=2.12
+plotly>=5.15
+matplotlib>=3.7
+seaborn>=0.12
+openpyxl>=3.1
+joblib>=1.3
+scipy>=1.10
+optuna>=3.0
+shap>=0.41
+mapie>=0.7
