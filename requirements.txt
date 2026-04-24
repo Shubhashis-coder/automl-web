@@ -15,3 +15,4 @@ scipy>=1.10
 optuna>=3.0
 shap>=0.41
 mapie>=0.7
+statsmodels>=0.14
